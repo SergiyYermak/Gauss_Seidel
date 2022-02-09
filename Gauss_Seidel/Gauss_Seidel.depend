@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639066803 source:c:\users\sergiyyermak\desktop\cs projects\gauss_seidel\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+
